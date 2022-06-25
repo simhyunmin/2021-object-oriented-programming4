@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "객체지향프로그래밍 2 기말고사 문제1", "객체지향프로그래밍 2 기말고사 문제1\객체지향프로그래밍 2 기말고사 문제1.vcxproj", "{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Debug|x64.ActiveCfg = Debug|x64
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Debug|x64.Build.0 = Debug|x64
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Debug|x86.Build.0 = Debug|Win32
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Release|x64.ActiveCfg = Release|x64
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Release|x64.Build.0 = Release|x64
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Release|x86.ActiveCfg = Release|Win32
+		{1F0A7F24-27FD-42BB-A125-85A46BE2D28D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518C1F72-09F7-445A-A1C8-40D416508332}
+	EndGlobalSection
+EndGlobal
